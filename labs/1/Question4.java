@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Question4 {
 
 	public static void main(String[] args) {
-		double speedoflight = 299972458;
+		final int speedoflight = 299972458;
 		
 		// Create scanner
 		Scanner input = new Scanner(System.in);
