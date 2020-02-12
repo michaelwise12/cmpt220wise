@@ -9,7 +9,7 @@ public class Problem5 {
 		// Take input of two strings
 		System.out.print("Enter your first string:");
 		String str1 = input.nextLine();
-		System.out.print("Enter your first string:");
+		System.out.print("Enter your second string:");
 		String str2 = input.nextLine();
 		// Define output variable
 		String result = "";
