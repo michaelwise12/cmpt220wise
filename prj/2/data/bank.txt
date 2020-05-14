@@ -1,0 +1,4 @@
+12345, new CheckingsAccount(new AccountInfo(12345, 1111, "Checkings", "John Smith", "johnsmith@gmail.com", 1250.0))
+24680, new SavingsAccount(new AccountInfo(24680, 1337, "Savings", "Mark Williams", "mwilliams6@hotmail.com", 750.0))
+12321, new CheckingsAccount(new AccountInfo(12321, 1420, "Checkings", "Jessica Johnson", "jjohn1234@gmail.com", 1750.0))
+30001, new SavingsAccount(new AccountInfo(30001, 2468, "Savings", "Emma Brown", "brownily0612@hotmail.com", 100.0))
