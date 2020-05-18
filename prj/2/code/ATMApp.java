@@ -148,7 +148,7 @@ public class ATMApp extends Application {
 		HBox hbox = addHBox(areaInfo);
 		VBox vbox = new VBox(30);
 		vbox.setStyle("-fx-background-color: #4997DE;");
-		Image image = new Image(new FileInputStream("atm.png"));
+		Image image = new Image(new FileInputStream("../data/atm.png"));
 		ImageView imageView = new ImageView(image); 
 		imageView.setFitHeight(200); 
 	    imageView.setFitWidth(300);
